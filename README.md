@@ -2,5 +2,6 @@
 Simple guide to use the SeaWulf server
 
 
-# Important links
+## Important links
+* https://it.stonybrook.edu/help/kb/seawulf-queues
 * https://it.stonybrook.edu/help/kb/using-the-slurm-workload-manager
